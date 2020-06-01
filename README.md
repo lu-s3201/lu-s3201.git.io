@@ -1,4 +1,4 @@
-# lu-s3201.git.io
+# lu-s3201.github.io
 
 My portfolio consists of a main web page "index.html", whcih contains links to a short bio "bio.html" and my resume "resume.html".
 
